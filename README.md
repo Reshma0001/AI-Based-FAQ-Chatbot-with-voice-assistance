@@ -1,1 +1,2 @@
 # AI-Based-FAQ-Chatbot-with-voice-assistance
+FAQ section answers the frequently asked questions of the user. Generally, these are answered by humans but not a chat bot. Hence, this paper proposes a new chat bot which can also answer Frequently asked questions. In addition to answering textual queries, it also has the capability of answering the queries by observing images provided by the user. If user is not satisfied with the answers given by chat bot, then the control is given to agent and agent replies to the query and adds it to the database.
